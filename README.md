@@ -36,3 +36,12 @@ This repository contains a set of Python scripts to monitor systems and gather i
     ```
 
 _\*) You might need to use python and pip instead of python3 and pip3 depending on your system._
+
+## Scripts
+
+-   `battery.py`: Get information about the battery of your system (if available)
+-   `system_monitor.py`: Monitor the system and display information about the CPU, memory, disk, and network usage
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
